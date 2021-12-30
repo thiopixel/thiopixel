@@ -1,4 +1,4 @@
-I’m thiopixel, aka @pentothalic on twitter 
+I’m thiopixel, aka @pentothalic on twitter \n
 I attempt to convert shaders from GLSL to HLSL
 
 Helpful resources:
